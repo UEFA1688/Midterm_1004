@@ -64,7 +64,7 @@ class MainMenu {
     }
     private void ShowMenuScreenWhenAuthenInCorrect(bool authenStatus) {
         if (!authenStatus) {
-            Console.WriteLine("“Incorrect email or password. Please try again.");
+            Console.WriteLine("Incorrect email or password. Please try again.");
             ShowMenuScreenInformation();
         }
     }
