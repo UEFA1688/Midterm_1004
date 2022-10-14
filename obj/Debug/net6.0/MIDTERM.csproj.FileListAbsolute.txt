@@ -1,0 +1,15 @@
+C:\Users\UEFA168\Desktop\MIDTERM\bin\Debug\net6.0\MIDTERM.exe
+C:\Users\UEFA168\Desktop\MIDTERM\bin\Debug\net6.0\MIDTERM.deps.json
+C:\Users\UEFA168\Desktop\MIDTERM\bin\Debug\net6.0\MIDTERM.runtimeconfig.json
+C:\Users\UEFA168\Desktop\MIDTERM\bin\Debug\net6.0\MIDTERM.dll
+C:\Users\UEFA168\Desktop\MIDTERM\bin\Debug\net6.0\MIDTERM.pdb
+C:\Users\UEFA168\Desktop\MIDTERM\obj\Debug\net6.0\MIDTERM.csproj.AssemblyReference.cache
+C:\Users\UEFA168\Desktop\MIDTERM\obj\Debug\net6.0\MIDTERM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UEFA168\Desktop\MIDTERM\obj\Debug\net6.0\MIDTERM.AssemblyInfoInputs.cache
+C:\Users\UEFA168\Desktop\MIDTERM\obj\Debug\net6.0\MIDTERM.AssemblyInfo.cs
+C:\Users\UEFA168\Desktop\MIDTERM\obj\Debug\net6.0\MIDTERM.csproj.CoreCompileInputs.cache
+C:\Users\UEFA168\Desktop\MIDTERM\obj\Debug\net6.0\MIDTERM.dll
+C:\Users\UEFA168\Desktop\MIDTERM\obj\Debug\net6.0\refint\MIDTERM.dll
+C:\Users\UEFA168\Desktop\MIDTERM\obj\Debug\net6.0\MIDTERM.pdb
+C:\Users\UEFA168\Desktop\MIDTERM\obj\Debug\net6.0\MIDTERM.genruntimeconfig.cache
+C:\Users\UEFA168\Desktop\MIDTERM\obj\Debug\net6.0\ref\MIDTERM.dll
